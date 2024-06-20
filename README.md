@@ -15,7 +15,7 @@ This is a simple blogging application built with Node.js, Express.js, MongoDB, M
 - npm (Node.js package manager)
 - MongoDB database
   
-  ![Main Page](Main page.png)
+ ![Main page](https://github.com/suyash09tiwari/BlogSphere/assets/128618126/225e9328-fbb3-469c-92ae-52182cca02be)
 
   ![Blog example](Blog example.png)
 
